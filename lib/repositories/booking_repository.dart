@@ -19,7 +19,7 @@ class BookingRepository {
   Future<void> saveBooking(Appointment appointment) async {
     await Future.delayed(Duration(seconds: 2));
     final appointments = (_box.read('bookings') as List?) ?? [];
-    appointments.add(appointment);
-    _box.write('bookings', appointments.map((e) => e.toJson()).toList());
+    appointments.add(appointment.toJson());
+    _box.write('bookings', appointments);
   }
 }

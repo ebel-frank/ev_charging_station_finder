@@ -87,7 +87,7 @@ class IntroView extends GetView<IntroController> {
                                     text: " Your EV Charging Slot in Seconds")
                               ])),
                       description:
-                          "Get immediate assistance in critical situations with our emergency reporting feature.",
+                          "Book a spot in advance and never wait in line again.",
                       asset: Assets.appointment,
                       pageIndex: 2,
                       currentPage: controller.currentPageValue.value);

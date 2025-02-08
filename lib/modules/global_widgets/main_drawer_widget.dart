@@ -196,6 +196,7 @@ class MainDrawerWidget extends StatelessWidget {
                     onTap: (e) async {
                       Get.back();
                       await Get.find<AuthService>().signOut();
+                      await Get.find<RootController>().changePage(0);
                     },
                   );
                 } else {

@@ -22,7 +22,11 @@ class BookingsView extends GetView<BookingsController> {
               AppBar(
                 title: Text("My Bookings"),
                 automaticallyImplyLeading: false,
-                leadingWidth: 0,
+                leading: IconButton(
+                  onPressed: () {
+                    Scaffold.of(context).openDrawer();
+                  },
+                    icon: Icon(Icons.sort)),
               ),
               Obx(() {
                 if (controller.isLoading.isTrue) {

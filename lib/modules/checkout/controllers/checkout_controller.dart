@@ -59,7 +59,7 @@ class CheckoutController extends GetxController {
           Payment(
               paymentMethod: selectedPaymentMethod.value,
               amount: (_appointment.station!.rate! * (int.parse(_appointment.duration!)/ 60)),
-              paymentStatus: PaymentStatus(id: "0", status: "Paid")
+              paymentStatus: selectedPaymentMethod.value.id == '6' ? PaymentStatus(id: "0", status: "Not Paid") : PaymentStatus(id: "1", status: "Paid")
           );
       await _bookingRepository.saveBooking(_appointment);
       Get.toNamed(AppRoutes.FINAL_CHECKOUT);
