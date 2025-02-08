@@ -1,0 +1,256 @@
+[
+  {
+    "id": 1,
+    "lat": 6.4550,
+    "lng": 3.3944,
+    "rate": 4.5,
+    "name": "Ikeja Electric EV Station",
+    "images": [
+      "https://parse2.chargehub.com/parse/files/wN79nzHSfAnEsjgSooUeYpN3zEVAplLnq7I0yjmz/ee2763532b7fb2f138a320e84e9db7ac_Image.jpg",
+      "https://parse2.chargehub.com/parse/files/wN79nzHSfAnEsjgSooUeYpN3zEVAplLnq7I0yjmz/mfp_dd0413f6c8744286795018e3c1c16ca2Image.png"
+    ],
+    "rating": 4.5,
+    "available_duration":  [
+      {
+        "id": "30",
+        "duration": "30 minutes"
+      },
+      {
+        "id": "60",
+        "duration": "1 hour"
+      },
+      {
+        "id": "120",
+        "duration": "2 hours"
+      }
+    ],
+    "address": "123 Allen Avenue, Ikeja, Lagos",
+    "phone": "+234 1 234 5678"
+  },
+  {
+    "id": 2,
+    "lat": 6.5244,
+    "lng": 3.3792,
+    "rate": 4.2,
+    "name": "Lekki Hub EV Charging Point",
+    "images": [
+      "https://parse2.chargehub.com/parse/files/wN79nzHSfAnEsjgSooUeYpN3zEVAplLnq7I0yjmz/ee2763532b7fb2f138a320e84e9db7ac_Image.jpg",
+      "https://parse2.chargehub.com/parse/files/wN79nzHSfAnEsjgSooUeYpN3zEVAplLnq7I0yjmz/mfp_dd0413f6c8744286795018e3c1c16ca2Image.png"
+    ],
+    "rating": 4.2,
+    "available_duration":  [
+      {
+        "id": "30",
+        "duration": "30 minutes"
+      },
+      {
+        "id": "60",
+        "duration": "1 hour"
+      },
+      {
+        "id": "120",
+        "duration": "2 hours"
+      }
+    ],
+    "address": "Lekki Phase 1, Lagos",
+    "phone": "+234 80 987 6543"
+  },
+  {
+    "id": 3,
+    "lat": 7.4974,
+    "lng": 9.0820,
+    "name": "Abuja Energy Hub",
+    "rate": 4.6,
+    "images": [
+      "https://parse2.chargehub.com/parse/files/wN79nzHSfAnEsjgSooUeYpN3zEVAplLnq7I0yjmz/ee2763532b7fb2f138a320e84e9db7ac_Image.jpg",
+      "https://parse2.chargehub.com/parse/files/wN79nzHSfAnEsjgSooUeYpN3zEVAplLnq7I0yjmz/mfp_dd0413f6c8744286795018e3c1c16ca2Image.png"
+      ],
+    "rating": 4.8,
+    "available_duration":  [
+      {
+        "id": "30",
+        "duration": "30 minutes"
+      },
+      {
+        "id": "60",
+        "duration": "1 hour"
+      },
+      {
+        "id": "120",
+        "duration": "2 hours"
+      }
+    ],
+    "address": "Central Business District, Abuja",
+    "phone": "+234 90 123 4567"
+  },
+  {
+    "id": 5,
+    "lat": 10.4230,
+    "lng": 8.9844,
+    "rate": 4.6,
+    "name": "Kaduna Solar Hub",
+    "images": [
+      "https://parse2.chargehub.com/parse/files/wN79nzHSfAnEsjgSooUeYpN3zEVAplLnq7I0yjmz/ee2763532b7fb2f138a320e84e9db7ac_Image.jpg",
+      "https://parse2.chargehub.com/parse/files/wN79nzHSfAnEsjgSooUeYpN3zEVAplLnq7I0yjmz/mfp_dd0413f6c8744286795018e3c1c16ca2Image.png"
+    ],
+    "rating": 4.7,
+    "available_duration":  [
+      {
+        "id": "30",
+        "duration": "30 minutes"
+      },
+      {
+        "id": "60",
+        "duration": "1 hour"
+      },
+      {
+        "id": "120",
+        "duration": "2 hours"
+      }
+    ],
+    "address": "Ahmadu Bello Way, Kaduna",
+    "phone": "+234 81 678 9012"
+  },
+  {
+    "id": 6,
+    "lat": 4.9372,
+    "lng": 7.4909,
+    "rate": 4.6,
+    "name": "Port Harcourt Energy Center",
+    "images": [
+      "https://parse2.chargehub.com/parse/files/wN79nzHSfAnEsjgSooUeYpN3zEVAplLnq7I0yjmz/4735cebd974746680a7115ef2c66925e_Image.jpg",
+      "https://parse2.chargehub.com/parse/files/wN79nzHSfAnEsjgSooUeYpN3zEVAplLnq7I0yjmz/mfp_dd0413f6c8744286795018e3c1c16ca2Image.png"
+    ],
+    "rating": 4.3,
+    "available_duration":  [
+      {
+        "id": "30",
+        "duration": "30 minutes"
+      },
+      {
+        "id": "60",
+        "duration": "1 hour"
+      },
+      {
+        "id": "120",
+        "duration": "2 hours"
+      }
+    ],
+    "address": "Trans Amadi Industrial Layout, Port Harcourt",
+    "phone": "+234 91 567 8901"
+  },
+  {
+    "id": 7,
+    "lat": 6.4637,
+    "lng": 3.4068,
+    "rate": 4.6,
+    "name": "Victoria Island Charging Hub",
+    "images": [
+      "https://parse2.chargehub.com/parse/files/wN79nzHSfAnEsjgSooUeYpN3zEVAplLnq7I0yjmz/4735cebd974746680a7115ef2c66925e_Image.jpg",
+      "https://parse2.chargehub.com/parse/files/wN79nzHSfAnEsjgSooUeYpN3zEVAplLnq7I0yjmz/mfp_dd0413f6c8744286795018e3c1c16ca2Image.png"
+    ],
+    "rating": 4.9,
+    "available_duration":  [
+      {
+        "id": "30",
+        "duration": "30 minutes"
+      },
+      {
+        "id": "60",
+        "duration": "1 hour"
+      },
+      {
+        "id": "120",
+        "duration": "2 hours"
+      }
+    ],
+    "address": "Victoria Island, Lagos",
+    "phone": "+234 80 345 6789"
+  },
+  {
+    "id": 8,
+    "lat": 11.9716,
+    "lng": 7.4851,
+    "rate": 4.6,
+    "name": "Kano Green Energy Station",
+    "images": [
+      "https://parse2.chargehub.com/parse/files/wN79nzHSfAnEsjgSooUeYpN3zEVAplLnq7I0yjmz/ee2763532b7fb2f138a320e84e9db7ac_Image.jpg",
+      "https://parse2.chargehub.com/parse/files/wN79nzHSfAnEsjgSooUeYpN3zEVAplLnq7I0yjmz/4735cebd974746680a7115ef2c66925e_Image.jpg",
+      "https://parse2.chargehub.com/parse/files/wN79nzHSfAnEsjgSooUeYpN3zEVAplLnq7I0yjmz/mfp_dd0413f6c8744286795018e3c1c16ca2Image.png"
+    ],
+    "rating": 4.6,
+    "available_duration":  [
+      {
+        "id": "30",
+        "duration": "30 minutes"
+      },
+      {
+        "id": "60",
+        "duration": "1 hour"
+      },
+      {
+        "id": "120",
+        "duration": "2 hours"
+      }
+    ],
+    "address": "Kano City, Kano",
+    "phone": "+234 92 123 4567"
+  },
+  {
+    "id": 9,
+    "lat": 5.5130,
+    "lng": 8.8248,
+    "rate": 4.6,
+    "name": "Enugu Electric Hub",
+    "images": [
+      "https://parse2.chargehub.com/parse/files/wN79nzHSfAnEsjgSooUeYpN3zEVAplLnq7I0yjmz/ee2763532b7fb2f138a320e84e9db7ac_Image.jpg",
+      "https://parse2.chargehub.com/parse/files/wN79nzHSfAnEsjgSooUeYpN3zEVAplLnq7I0yjmz/mfp_dd0413f6c8744286795018e3c1c16ca2Image.png"
+    ],
+    "rating": 4.4,
+    "available_duration":  [
+      {
+        "id": "30",
+        "duration": "30 minutes"
+      },
+      {
+        "id": "60",
+        "duration": "1 hour"
+      },
+      {
+        "id": "120",
+        "duration": "2 hours"
+      }
+    ],
+    "address": "Independence Layout, Lagos",
+    "phone": "+234 83 789 0123"
+  },
+  {
+    "id": 10,
+    "lat": 6.4411176217392265,
+    "lng": 3.3669794679322873,
+    "rate": 4.6,
+    "name": "Calabar Green Energy Point",
+    "images": [
+      "https://parse2.chargehub.com/parse/files/wN79nzHSfAnEsjgSooUeYpN3zEVAplLnq7I0yjmz/ee2763532b7fb2f138a320e84e9db7ac_Image.jpg",
+      "https://parse2.chargehub.com/parse/files/wN79nzHSfAnEsjgSooUeYpN3zEVAplLnq7I0yjmz/mfp_dd0413f6c8744286795018e3c1c16ca2Image.png",
+      "https://parse2.chargehub.com/parse/files/wN79nzHSfAnEsjgSooUeYpN3zEVAplLnq7I0yjmz/4735cebd974746680a7115ef2c66925e_Image.jpg"
+    ],
+    "rating": 4.2,
+    "available_duration":  [
+      {
+        "id": "30",
+        "duration": "30 minutes"
+      },
+      {
+        "id": "60",
+        "duration": "1 hour"
+      },
+      {
+        "id": "120",
+        "duration": "2 hours"
+      }
+    ],
+    "address": "Along Apapa Road, Lagos",
+    "phone": "+234 84 123 4567"
+  }
+]

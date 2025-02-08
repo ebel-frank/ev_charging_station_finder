@@ -1,0 +1,30 @@
+[
+  {
+    "id": 5,
+    "name": "PayPal",
+    "description": "Click to pay with your PayPal account",
+    "order": 1,
+    "logo": "https://img.utdstc.com/icon/69b/1f2/69b1f2a4ac00c0e8a75d68ad8b48e676bc5d8f99b08accf99f75aada6a0a07fa:200"
+  },
+  {
+    "id": 6,
+    "name": "Cash",
+    "description": "Click to pay cash when finish",
+    "order": 3,
+    "logo": "https://tmrgoldenliving.org/public/storage/app/public/7/pay_pickup.png"
+  },
+  {
+    "id": 7,
+    "name": "Credit Card (Stripe)",
+    "description": "Click to pay with your Credit Card",
+    "order": 2,
+    "logo": "https://cocolabs.com/wp-content/uploads/2024/02/logo-stripe-2.png"
+  },
+  {
+    "id": 7,
+    "name": "Payoneer",
+    "description": "Click to pay with your Payoneer account",
+    "order": 4,
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC7URnxRgcsQk-xcr9rSPKEOb_lB7DEZBmFA&s"
+  }
+]
